@@ -1,2 +1,7 @@
 # Algorithm-and-Data-Structures
-This repository contains some of the basic, intermediate and advanced algorithm replication in multiple languages (mostly in JAVA, C++, and Python). 
+This repository contains some of the basic, intermediate and advanced algorithms reproduced in multiple languages (mostly in [JAVA][https://docs.oracle.com/javase/7/docs/api/java/lang/ref/Reference.html], [C++](https://en.wikipedia.org/wiki/C%2B%2B), and [Python](https://www.python.org/)).  
+
+## Easy Navigation for Sorting Algorithm.
+--->>> Bubble Sort >>> [JAVA](https://github.com/Vanditg/Algorithm-and-Data-Structures/tree/master/Bubble_Sort/JAVA) ||| >>> [C++](https://github.com/Vanditg/Algorithm-and-Data-Structures/tree/master/Bubble_Sort/C%2B%2B) ||| >>> [Python](https://github.com/Vanditg/Algorithm-and-Data-Structures/tree/master/Bubble_Sort/Python)  
+--->>> Selection Sort >>> [JAVA](https://github.com/Vanditg/Algorithm-and-Data-Structures/tree/master/Selection_Sort/JAVA) ||| >>> [C++](https://github.com/Vanditg/Algorithm-and-Data-Structures/tree/master/Selection_Sort/C%2B%2B) ||| >>> [Python](https://github.com/Vanditg/Algorithm-and-Data-Structures/tree/master/Selection_Sort/Python)  
+--->>> Insertion Sort >>> [JAVA](https://github.com/Vanditg/Algorithm-and-Data-Structures/tree/master/Insertion_Sort/JAVA) ||| >>> [C++](https://github.com/Vanditg/Algorithm-and-Data-Structures/tree/master/Insertion_Sort/C%2B%2B) ||| >>> [Python](https://github.com/Vanditg/Algorithm-and-Data-Structures/tree/master/Insertion_Sort/Python)
